@@ -1,1 +1,2 @@
 # ColorFlipper
+Javascript application
